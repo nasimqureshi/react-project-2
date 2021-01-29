@@ -1,10 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import Heading from "./Heading";
 
 
 ReactDOM.render(
   <>
-  <h1>My name is Nasim</h1>
+  <Heading></Heading>
   <p>This is my components</p>
   <ol>
     <li>Nasim</li>
