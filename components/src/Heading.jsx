@@ -1,6 +1,6 @@
 import React from 'react';
 
 function Heading(){
-    return <h1>My name is Nasim</h1>;
+    return <h1>My name is Nasimuddin Qureshi</h1>;
 }
 export default Heading;
